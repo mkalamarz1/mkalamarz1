@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Márcia Figueiró Kalamarz 👋</h1>
+<h1 align="center">Olá, eu sou Márcia Figueiró Kalamarz ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=UX%2FUI+Designer+em+Forma%C3%A7%C3%A3o;Apaixonada+por+Tecnologia+e+Design;Estudando+Front-End+e+Back-End;Sempre+Aprendendo+Algo+Novo+%F0%9F%9A%80" />
@@ -6,23 +6,23 @@
 
 ---
 
-## 💡 Sobre mim
+## Sobre mim
 
-🌸 Sou **Márcia Figueiró Kalamarz**, apaixonada por tecnologia, design e inovação.
+Sou **Márcia Figueiró Kalamarz**, apaixonada por tecnologia, design e inovação.
 
-🎨 Tenho forte interesse em **UX/UI Design**, criando experiências digitais intuitivas, acessíveis e centradas nas pessoas.
+Tenho forte interesse em **UX/UI Design**, criando experiências digitais intuitivas, acessíveis e centradas nas pessoas.
 
-💻 Também estudo **Desenvolvimento Front-End** e **Back-End**, ampliando meus conhecimentos na construção de produtos digitais.
+Também estudo **Desenvolvimento Front-End** e **Back-End**, ampliando meus conhecimentos na construção de produtos digitais.
 
-🚀 Atualmente desenvolvo projetos para fortalecer meu portfólio e adquirir experiência prática.
+Atualmente desenvolvo projetos para fortalecer meu portfólio e adquirir experiência prática.
 
-🎯 Busco oportunidades para crescer profissionalmente, aprender continuamente e contribuir para projetos que gerem impacto positivo.
+Busco oportunidades para crescer profissionalmente, aprender continuamente e contribuir para projetos que gerem impacto positivo.
 
-💬 Acredito que design, tecnologia e empatia caminham juntos na criação de soluções digitais de qualidade.
+Acredito que design, tecnologia e empatia caminham juntos na criação de soluções digitais de qualidade.
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## Tecnologias que utilizo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,html,css,js,git,github,vscode" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 📬 Vamos nos conectar!
+## Vamos nos conectar!
 
 <p align="center">
   <a href="mailto:SEU_EMAIL">
@@ -48,7 +48,7 @@
 
 ---
 
-## ⚡ Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkalamarz1&show_icons=true&theme=tokyonight" />
