@@ -1,57 +1,62 @@
-# 👋 Olá, seja bem-vindo(a) ao meu perfil!
+<h1 align="center">Olá, eu sou Márcia Figueiró Kalamarz 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=UX%2FUI+Designer+em+Forma%C3%A7%C3%A3o;Apaixonada+por+Tecnologia+e+Design;Estudando+Front-End+e+Back-End;Sempre+Aprendendo+Algo+Novo+%F0%9F%9A%80" />
+</p>
+
+---
 
 ## 💡 Sobre mim
 
 🌸 Sou **Márcia Figueiró Kalamarz**, apaixonada por tecnologia, design e inovação.
 
-🎨 Tenho grande interesse em **UX/UI Design**, criando experiências digitais intuitivas, acessíveis e centradas nas pessoas.
+🎨 Tenho forte interesse em **UX/UI Design**, criando experiências digitais intuitivas, acessíveis e centradas nas pessoas.
 
-💻 Também estudo **Desenvolvimento Front-End** e **Back-End**, buscando compreender todo o processo de construção de produtos digitais.
+💻 Também estudo **Desenvolvimento Front-End** e **Back-End**, ampliando meus conhecimentos na construção de produtos digitais.
 
-🚀 Atualmente desenvolvo projetos práticos para fortalecer meu portfólio e aprimorar minhas habilidades técnicas e criativas.
+🚀 Atualmente desenvolvo projetos para fortalecer meu portfólio e adquirir experiência prática.
 
-🎯 Meu objetivo é atuar na área de tecnologia, contribuindo para a criação de soluções que façam a diferença na vida das pessoas.
+🎯 Busco oportunidades para crescer profissionalmente, aprender continuamente e contribuir para projetos que gerem impacto positivo.
 
-💬 Acredito que design, tecnologia e empatia são fundamentais para construir experiências digitais de qualidade.
+💬 Acredito que design, tecnologia e empatia caminham juntos na criação de soluções digitais de qualidade.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias que utilizo
 
-🎨 Figma
-
-💻 HTML5
-
-🎨 CSS3
-
-⚡ JavaScript
-
-🌐 Git e GitHub
-
-🖥️ VS Code
-
-📱 UX Design
-
-🔍 UX Research
-
-⚙️ Desenvolvimento Front-End
-
-🔧 Desenvolvimento Back-End
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,git,github,vscode" />
+</p>
 
 ---
 
 ## 📬 Vamos nos conectar!
 
-💼 LinkedIn:
-[www.linkedin.com/in/marcia-kalamarz](http://www.linkedin.com/in/marcia-kalamarz)
+<p align="center">
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-🐙 GitHub:
-github.com/mkalamarz1
+  <a href="https://www.linkedin.com/in/marcia-kalamarz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/mkalamarz1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## ⚡ Atualmente
+## ⚡ Estatísticas do GitHub
 
-🌱 Aprendendo e evoluindo em UX/UI Design, Front-End e Back-End.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkalamarz1&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkalamarz1&layout=compact&theme=tokyonight" />
+</p>
 
-🚀 Construindo projetos que unem tecnologia, acessibilidade e experiência do usuário.
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
+</p>
