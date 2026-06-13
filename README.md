@@ -30,14 +30,14 @@ Acredito que design, tecnologia e empatia caminham juntos na criação de soluç
 
 ---
 
-## Vamos nos conectar!
+## 📬 Vamos nos conectar!
 
 <p align="center">
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:mkalamarz@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/marcia-kalamarz">
+  <a href="https://www.linkedin.com/in/marciakalamarz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -45,6 +45,7 @@ Acredito que design, tecnologia e empatia caminham juntos na criação de soluç
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
