@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Márcia Figueiró Kalamarz ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=UX%2FUI+Designer+em+Forma%C3%A7%C3%A3o;Apaixonada+por+Tecnologia+e+Design;Estudando+Front-End+e+Back-End;Sempre+Aprendendo+Algo+Novo+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Tecnologia+e+Design+%F0%9F%92%9C;UX%2FUI+Design+%7C+Front-End+%7C+Back-End;Construindo+solu%C3%A7%C3%B5es+digitais;Sempre+Aprendendo+Algo+Novo+%F0%9F%9A%80" />
 </p>
 
 ---
