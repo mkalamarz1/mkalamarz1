@@ -8,17 +8,13 @@
 
 ## Sobre mim
 
-Sou **Márcia Figueiró Kalamarz**, apaixonada por tecnologia, design e inovação.
+Tenho experiência em Front-End, com foco em Angular.
 
-Tenho forte interesse em **UX/UI Design**, criando experiências digitais intuitivas, acessíveis e centradas nas pessoas.
+Ao longo da minha trajetória, conheci o UX/UI Design e me apaixonei pela criação de experiências digitais centradas nas pessoas.
 
-Também estudo **Desenvolvimento Front-End** e **Back-End**, ampliando meus conhecimentos na construção de produtos digitais.
+Atualmente curso Full Stack Designer pela EBAC e participo de programas de capacitação em Front-End, Back-End e Design.
 
-Atualmente desenvolvo projetos para fortalecer meu portfólio e adquirir experiência prática.
-
-Busco oportunidades para crescer profissionalmente, aprender continuamente e contribuir para projetos que gerem impacto positivo.
-
-Acredito que design, tecnologia e empatia caminham juntos na criação de soluções digitais de qualidade.
+Busco unir desenvolvimento e design para criar soluções funcionais, acessíveis e intuitivas.
 
 ---
 
